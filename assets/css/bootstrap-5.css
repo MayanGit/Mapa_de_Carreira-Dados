@@ -11940,3 +11940,13 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   background-color: rgba(var(--bs-white-rgb), var(--bs-bg-opacity));
   margin: 2em auto;
 }
+.mb-0 {
+  text-align: justify;
+}
+.list-inline-1{
+  display: flex;
+  flex-direction: column;
+}
+p {
+  text-align: justify;
+}
